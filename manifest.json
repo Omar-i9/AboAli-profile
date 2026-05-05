@@ -1,0 +1,21 @@
+{
+  "name": "أبو علي | حساباتي",
+  "short_name": "أبو علي",
+  "description": "روابط التواصل الاجتماعي الخاصة بأبو علي",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#100f18",
+  "theme_color": "#100f18",
+  "icons": [
+    {
+      "src": "assets/friend.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "assets/friend.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
