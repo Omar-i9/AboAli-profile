@@ -393,19 +393,118 @@ button{ font:inherit; }
   fill:#171717;
 }
 
-.tiktok{ background:linear-gradient(135deg, #42dcff, #b58cff 55%, #ff8fd0); }
-.snapchat{ background:linear-gradient(135deg, #f7df67, #ffbf54); }
-.whatsapp{ background:linear-gradient(135deg, #46d68a, #1dbf73); }
-.instagram{ background:linear-gradient(135deg, #ffb36b, #ff7b96 50%, #b56bff); }
-.roblox{ background:linear-gradient(135deg, #8d8ff4, #5c70ff); }
-.discord{ background:linear-gradient(135deg, #7b84f8, #5865f2); }
-.steam{ background:linear-gradient(135deg, #6e86a8, #1b2838); }
-.epic{ background:linear-gradient(135deg, #454c5a, #111317); }
-.twitch{ background:linear-gradient(135deg, #9561ff, #7c3aed); }
-.x{ background:linear-gradient(135deg, #d2d6e3, #8f97a6); }
-.facebook{ background:linear-gradient(135deg, #7faeff, #3b82f6); }
-.chess{ background:linear-gradient(135deg, #f5c36f, #b86f1f); }
+/* TikTok */
+.tiktok{
+  background:linear-gradient(
+    135deg,
+    #25F4EE,
+    #000000 45%,
+    #FE2C55
+  );
+}
 
+/* Snapchat */
+.snapchat{
+  background:linear-gradient(
+    135deg,
+    #FFFC00,
+    #FFE100
+  );
+}
+
+/* WhatsApp */
+.whatsapp{
+  background:linear-gradient(
+    135deg,
+    #25D366,
+    #128C7E
+  );
+}
+
+/* Instagram */
+.instagram{
+  background:linear-gradient(
+    135deg,
+    #FEDA75,
+    #FA7E1E 25%,
+    #D62976 55%,
+    #962FBF 78%,
+    #4F5BD5
+  );
+}
+
+/* Roblox */
+.roblox{
+  background:linear-gradient(
+    135deg,
+    #393B3D,
+    #111111
+  );
+}
+
+/* Discord */
+.discord{
+  background:linear-gradient(
+    135deg,
+    #7289DA,
+    #5865F2
+  );
+}
+
+/* Steam */
+.steam{
+  background:linear-gradient(
+    135deg,
+    #1B2838,
+    #171A21,
+    #2A475E
+  );
+}
+
+/* Epic Games */
+.epic{
+  background:linear-gradient(
+    135deg,
+    #313131,
+    #000000
+  );
+}
+
+/* Twitch */
+.twitch{
+  background:linear-gradient(
+    135deg,
+    #9146FF,
+    #772CE8
+  );
+}
+
+/* X / Twitter */
+.x{
+  background:linear-gradient(
+    135deg,
+    #FFFFFF,
+    #000000
+  );
+}
+
+/* Facebook */
+.facebook{
+  background:linear-gradient(
+    135deg,
+    #1877F2,
+    #145DBF
+  );
+}
+
+/* Chess.com */
+.chess{
+  background:linear-gradient(
+    135deg,
+    #81B64C,
+    #4A752C
+  );
+}
 .epic-mark{
   display:flex;
   flex-direction:column;
